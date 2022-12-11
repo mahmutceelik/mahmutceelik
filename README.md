@@ -10,7 +10,9 @@ I am an entrepreneur-minded person. I aim to develop in the fields of data scien
 
 ## Education 🎓:
 - [Nişantaşı University](https://www.nisantasi.edu.tr/)
-- [![42](https://r.resimlink.com/vAqjt1OLZ386.png)](https://www.42network.org/)
+- [![42](https://r.resimlink.com/JeXNg.png)](https://www.42network.org/)
+
+
 
 ## Contact:
 - [![MAİL](https://r.resimlink.com/ZxS7iPI.png)](mahmut53celik@gmail.com)
