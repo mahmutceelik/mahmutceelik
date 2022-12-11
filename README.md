@@ -13,16 +13,16 @@ I am an entrepreneur-minded person. I aim to develop in the fields of data scien
 - [![42](https://r.resimlink.com/PKZ3iJ1fFO.png)](https://www.42network.org/)
 ---
 ## Contact:
-- [![mail](https://r.resimlink.com/kx2g1lwLfTs.png)](mahmut53celik@gmail.com)
-- [![Twitter](https://r.resimlink.com/OdkHDN_SaZsu.png)](https://twitter.com/mahmutceelikk)
-- [![linkedin](https://r.resimlink.com/fqO5rFa.png)](https://www.linkedin.com/in/mahmutceelik/)
+- [![MAİL](https://r.resimlink.com/ZxS7iPI.png)](mahmut53celik@gmail.com)
+- [![Twitter](https://r.resimlink.com/t7PiI3V.png)](https://twitter.com/mahmutceelikk)
+- [![Linkedin](https://r.resimlink.com/SdhZH2.png)](https://www.linkedin.com/mahmutceelik/)
 ---
 ## Languages and Tools
-[![C](https://r.resimlink.com/YNpbTKtH.png)](https://resimlink.com/YNpbTKtH)
-[![C++](https://r.resimlink.com/mNn98.png)](https://resimlink.com/mNn98)
-[![image](https://r.resimlink.com/3Cx_yZk.png)](https://resimlink.com/3Cx_yZk)
-[![Swift](https://r.resimlink.com/08Uglx.png)](https://resimlink.com/08Uglx)
-[![Git](https://r.resimlink.com/U8iCscVX.png)](https://resimlink.com/U8iCscVX)
+[![C](https://r.resimlink.com/_bGlpnICH.png)](https://resimlink.com/_bGlpnICH)
+[![C++](https://r.resimlink.com/7F8OoK.png)](https://resimlink.com/7F8OoK)
+[![Python](https://r.resimlink.com/3Cx_yZk.png)](https://resimlink.com/3Cx_yZk)
+[![Swift](https://r.resimlink.com/ohbdfx2gSQmJ.png)](https://resimlink.com/ohbdfx2gSQmJ)
+[![Git](https://r.resimlink.com/dpcl7J.png)](https://resimlink.com/dpcl7J)
 
 ---
 ## GitHub Stats
