@@ -19,7 +19,7 @@ I am an entrepreneur-minded person. I aim to develop in the fields of data scien
 ---
 ## Languages and Tools
 [![C](https://r.resimlink.com/YNpbTKtH.png)](https://resimlink.com/YNpbTKtH)
-[![C++](https://r.resimlink.com/R6bxHdaZ1rti.png)](https://resimlink.com/R6bxHdaZ1rti)
+[![C++](https://r.resimlink.com/mNn98.png)](https://resimlink.com/mNn98)
 [![Python](https://r.resimlink.com/CJjEn467zsB.png)](https://resimlink.com/CJjEn467zsB)
 [![Swift](https://r.resimlink.com/08Uglx.png)](https://resimlink.com/08Uglx)
 [![Git](https://r.resimlink.com/U8iCscVX.png)](https://resimlink.com/U8iCscVX)
