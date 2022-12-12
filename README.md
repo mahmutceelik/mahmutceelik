@@ -17,7 +17,7 @@ I am an entrepreneur-minded person. I aim to develop in the fields of data scien
 ## Contact:
 - [![MAİL](https://r.resimlink.com/ZxS7iPI.png)](mahmut53celik@gmail.com)
 - [![Twitter](https://r.resimlink.com/t7PiI3V.png)](https://twitter.com/mahmutceelikk)
-- [![Linkedin](https://r.resimlink.com/SdhZH2.png)](https://www.linkedin.com/mahmutceelik/)
+- [![Linkedin](https://r.resimlink.com/SdhZH2.png)](https://www.linkedin.com/in/mahmutceelik/)
 
 ## Languages and Tools
 [![C](https://r.resimlink.com/_bGlpnICH.png)](https://resimlink.com/_bGlpnICH)
