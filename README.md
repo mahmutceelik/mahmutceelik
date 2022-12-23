@@ -22,7 +22,6 @@ I am an entrepreneur-minded person. I aim to develop in the fields of data scien
 [![C](https://r.resimlink.com/_bGlpnICH.png)](https://resimlink.com/_bGlpnICH)
 [![Python](https://r.resimlink.com/3Cx_yZk.png)](https://resimlink.com/3Cx_yZk)
 [![Swift](https://r.resimlink.com/ohbdfx2gSQmJ.png)](https://resimlink.com/ohbdfx2gSQmJ)
-[![Git](https://r.resimlink.com/dpcl7J.png)](https://resimlink.com/dpcl7J)
 
 
 ## GitHub Stats
