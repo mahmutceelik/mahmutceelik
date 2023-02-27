@@ -9,7 +9,7 @@ I am an entrepreneur-minded person. I aim to develop in the fields of data scien
 
 
 ## Education 🎓:
-- [Nişantaşı University](https://www.nisantasi.edu.tr/)
+- [Nişantaşı University - MIS ](https://www.nisantasi.edu.tr/)
 - [42](https://www.42network.org/)
 
 
